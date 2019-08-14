@@ -8,6 +8,8 @@ This xMatters communication plan contains ~40 xMatters REST API Endpoints as Cus
 
 # Pre-Requisites
 
+Add a Comment to an Event - xMatters Rest API Flow Steps-ORIGNIAL
+
 - xMatters account - If you don't have one, [get one](https://www.xmatters.com)!
 
 # Files
